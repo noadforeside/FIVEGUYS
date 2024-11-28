@@ -1,0 +1,35 @@
+모델 로드: model2_model_state.pth
+Evaluating: 100%|██████████████████████████████████████████████████████████████████████████████████████| 297/297 [00:07<00:00, 38.13it/s]
+
+Test Loss: 1.0953
+Test Perplexity: 2.99
+
+예측 테스트를 시작합니다…
+
+MBTI ISTJ의 예측 결과:
+Option 1: 잘 (Probability: 0.0143)
+Option 2: 정리 (Probability: 0.0119)
+Option 3: 기록 (Probability: 0.0080)
+Option 4: 체계 (Probability: 0.0075)
+Option 5: 세워 (Probability: 0.0071)
+
+MBTI ENFP의 예측 결과:
+Option 1: 자유롭게 (Probability: 0.0118)
+Option 2: 풀어 (Probability: 0.0111)
+Option 3: 감동 (Probability: 0.0111)
+Option 4: 잘 (Probability: 0.0111)
+Option 5: 신기 (Probability: 0.0085)
+
+MBTI INTJ의 예측 결과:
+Option 1: 적으로 (Probability: 0.0201)
+Option 2: ##돼야 (Probability: 0.0201)
+Option 3: 잘 (Probability: 0.0168)
+Option 4: 체계 (Probability: 0.0164)
+Option 5: 정리 (Probability: 0.0154)
+
+MBTI ESFP의 예측 결과:
+Option 1: 자유롭게 (Probability: 0.0188)
+Option 2: 잘 (Probability: 0.0133)
+Option 3: 풀어 (Probability: 0.0094)
+Option 4: 정리 (Probability: 0.0079)
+Option 5: 효율 (Probability: 0.0068)
