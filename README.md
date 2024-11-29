@@ -22,6 +22,9 @@
 
 <img src="https://github.com/user-attachments/assets/a5f1ddaf-5559-49f7-85cb-b3e35461e74c" width="800"/>
 
+## Team Member
+
+이준성(PM) 김민규 성재영 이영주 이현준
 
 ## Acknowlegement
 
